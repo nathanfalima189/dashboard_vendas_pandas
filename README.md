@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 📊 Dashboard de Vendas
 
 Projeto desenvolvido em Python para análise de vendas e geração de indicadores de negócio utilizando Pandas e Matplotlib.
