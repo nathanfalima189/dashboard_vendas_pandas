@@ -4,15 +4,18 @@
 Projeto desenvolvido em Python para análise de vendas e geração de indicadores de negócio utilizando Pandas e Matplotlib.
 
 🚀 Objetivo
+
 Este projeto foi desenvolvido com o objetivo de praticar análise de dados, manipulação de arquivos CSV e geração de dashboards simples para apoio à tomada de decisão.
 
 🛠️ Tecnologias Utilizadas
+
 Python
 Pandas
 Matplotlib
 CSV
 
 📈 Indicadores Gerados
+
 Faturamento Total
 Produto Mais Vendido
 Canal Mais Lucrativo
@@ -43,11 +46,7 @@ pip install pandas matplotlib
 Execute o projeto:
 
 python dashboard.py
+
 👨‍💻 Autor
 
 Nathan Ferreira
-Estudante de Ciência de Dados e estagiário na CSN – Companhia Siderúrgica Nacional, atuando na área de Inteligência de Suprimentos com automação de processos (RPA), SAP e análise de dados.
-=======
-# Dashboard_vendas
-Dashboard de vendas desenvolvido com Python, Pandas e Matplotlib.
->>>>>>> 8df03af4bd44f0d06a1d4f35f9bd04649ce86bc7
