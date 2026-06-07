@@ -1,0 +1,61 @@
+Data,Pedido_ID,Cliente,Cidade,Estado,Produto,Categoria,Canal_Venda,Forma_Pagamento,Quantidade,Valor_Unitario,Vendedor
+2026-01-02,P001,João Silva,Volta Redonda,RJ,Notebook,Informática,Online,Cartão de Crédito,1,3500,Carlos
+2026-01-03,P002,Maria Souza,São Paulo,SP,Mouse,Informática,Presencial,Pix,5,80,Ana
+2026-01-04,P003,Pedro Santos,Belo Horizonte,MG,Monitor,Informática,Online,Boleto,2,1200,Lucas
+2026-01-05,P004,Ana Costa,Rio de Janeiro,RJ,Teclado,Informática,Presencial,Pix,3,150,Carlos
+2026-01-06,P005,Lucas Lima,Campinas,SP,SSD 1TB,Informática,Online,Cartão de Crédito,2,450,Ana
+2026-01-07,P006,Juliana Alves,Volta Redonda,RJ,Cadeira Gamer,Móveis,Online,Pix,1,1800,Lucas
+2026-01-08,P007,Felipe Rocha,São Paulo,SP,Webcam,Informática,Presencial,Cartão de Débito,4,300,Carlos
+2026-01-09,P008,Camila Martins,Belo Horizonte,MG,Headset,Informática,Online,Boleto,3,250,Ana
+2026-01-10,P009,Rafael Gomes,Rio de Janeiro,RJ,Mesa Escritório,Móveis,Presencial,Pix,1,1200,Lucas
+2026-01-11,P010,Bruna Ferreira,Campinas,SP,Impressora,Informática,Online,Cartão de Crédito,2,900,Carlos
+2026-01-12,P011,Gabriel Dias,São Paulo,SP,Mouse,Informática,Online,Pix,8,80,Ana
+2026-01-13,P012,Patrícia Melo,Volta Redonda,RJ,Notebook,Informática,Presencial,Boleto,1,3500,Lucas
+2026-01-14,P013,Thiago Ribeiro,Belo Horizonte,MG,Monitor,Informática,Online,Cartão de Crédito,1,1200,Carlos
+2026-01-15,P014,Mariana Costa,Rio de Janeiro,RJ,SSD 1TB,Informática,Presencial,Pix,3,450,Ana
+2026-01-16,P015,Daniel Souza,Campinas,SP,Cadeira Gamer,Móveis,Online,Cartão de Crédito,1,1800,Lucas
+2026-01-17,P016,Larissa Silva,São Paulo,SP,Webcam,Informática,Online,Pix,2,300,Carlos
+2026-01-18,P017,André Santos,Belo Horizonte,MG,Headset,Informática,Presencial,Boleto,5,250,Ana
+2026-01-19,P018,Amanda Rocha,Rio de Janeiro,RJ,Mesa Escritório,Móveis,Online,Pix,2,1200,Lucas
+2026-01-20,P019,Renato Lima,Campinas,SP,Impressora,Informática,Presencial,Cartão de Débito,1,900,Carlos
+2026-01-21,P020,Vanessa Martins,Volta Redonda,RJ,Teclado,Informática,Online,Pix,6,150,Ana
+2026-01-22,P021,Paulo Mendes,São Paulo,SP,Mouse,Informática,Presencial,Cartão de Crédito,10,80,Lucas
+2026-01-23,P022,Cláudia Gomes,Belo Horizonte,MG,Notebook,Informática,Online,Pix,1,3500,Carlos
+2026-01-24,P023,Ricardo Alves,Rio de Janeiro,RJ,Monitor,Informática,Presencial,Boleto,2,1200,Ana
+2026-01-25,P024,Sabrina Rocha,Campinas,SP,SSD 1TB,Informática,Online,Pix,4,450,Lucas
+2026-01-26,P025,Leonardo Costa,São Paulo,SP,Cadeira Gamer,Móveis,Presencial,Cartão de Crédito,1,1800,Carlos
+2026-01-27,P026,Priscila Dias,Belo Horizonte,MG,Webcam,Informática,Online,Pix,3,300,Ana
+2026-01-28,P027,Marcelo Lima,Rio de Janeiro,RJ,Headset,Informática,Presencial,Boleto,4,250,Lucas
+2026-01-29,P028,Carolina Silva,Campinas,SP,Mesa Escritório,Móveis,Online,Pix,1,1200,Carlos
+2026-01-30,P029,Gustavo Souza,Volta Redonda,RJ,Impressora,Informática,Presencial,Cartão de Crédito,2,900,Ana
+2026-01-31,P030,Fernanda Alves,São Paulo,SP,Notebook,Informática,Online,Pix,1,3500,Lucas
+2026-02-01,P031,João Silva,Volta Redonda,RJ,Mouse,Informática,Online,Pix,7,80,Carlos
+2026-02-02,P032,Maria Souza,São Paulo,SP,Monitor,Informática,Presencial,Cartão de Crédito,1,1200,Ana
+2026-02-03,P033,Pedro Santos,Belo Horizonte,MG,SSD 1TB,Informática,Online,Boleto,2,450,Lucas
+2026-02-04,P034,Ana Costa,Rio de Janeiro,RJ,Cadeira Gamer,Móveis,Presencial,Pix,1,1800,Carlos
+2026-02-05,P035,Lucas Lima,Campinas,SP,Webcam,Informática,Online,Cartão de Crédito,5,300,Ana
+2026-02-06,P036,Juliana Alves,Volta Redonda,RJ,Headset,Informática,Presencial,Pix,3,250,Lucas
+2026-02-07,P037,Felipe Rocha,São Paulo,SP,Mesa Escritório,Móveis,Online,Boleto,2,1200,Carlos
+2026-02-08,P038,Camila Martins,Belo Horizonte,MG,Impressora,Informática,Presencial,Cartão de Crédito,1,900,Ana
+2026-02-09,P039,Rafael Gomes,Rio de Janeiro,RJ,Teclado,Informática,Online,Pix,4,150,Lucas
+2026-02-10,P040,Bruna Ferreira,Campinas,SP,Mouse,Informática,Presencial,Cartão de Débito,6,80,Carlos
+2026-02-11,P041,Gabriel Dias,São Paulo,SP,Notebook,Informática,Online,Pix,2,3500,Ana
+2026-02-12,P042,Patrícia Melo,Volta Redonda,RJ,Monitor,Informática,Presencial,Boleto,1,1200,Lucas
+2026-02-13,P043,Thiago Ribeiro,Belo Horizonte,MG,SSD 1TB,Informática,Online,Pix,3,450,Carlos
+2026-02-14,P044,Mariana Costa,Rio de Janeiro,RJ,Cadeira Gamer,Móveis,Presencial,Cartão de Crédito,1,1800,Ana
+2026-02-15,P045,Daniel Souza,Campinas,SP,Webcam,Informática,Online,Pix,2,300,Lucas
+2026-02-16,P046,Larissa Silva,São Paulo,SP,Headset,Informática,Presencial,Boleto,5,250,Carlos
+2026-02-17,P047,André Santos,Belo Horizonte,MG,Mesa Escritório,Móveis,Online,Pix,1,1200,Ana
+2026-02-18,P048,Amanda Rocha,Rio de Janeiro,RJ,Impressora,Informática,Presencial,Cartão de Crédito,2,900,Lucas
+2026-02-19,P049,Renato Lima,Campinas,SP,Teclado,Informática,Online,Pix,7,150,Carlos
+2026-02-20,P050,Vanessa Martins,Volta Redonda,RJ,Mouse,Informática,Presencial,Cartão de Crédito,9,80,Ana
+2026-02-21,P051,Paulo Mendes,São Paulo,SP,Notebook,Informática,Online,Pix,1,3500,Lucas
+2026-02-22,P052,Cláudia Gomes,Belo Horizonte,MG,Monitor,Informática,Presencial,Boleto,2,1200,Carlos
+2026-02-23,P053,Ricardo Alves,Rio de Janeiro,RJ,SSD 1TB,Informática,Online,Pix,4,450,Ana
+2026-02-24,P054,Sabrina Rocha,Campinas,SP,Cadeira Gamer,Móveis,Presencial,Cartão de Crédito,1,1800,Lucas
+2026-02-25,P055,Leonardo Costa,São Paulo,SP,Webcam,Informática,Online,Pix,3,300,Carlos
+2026-02-26,P056,Priscila Dias,Belo Horizonte,MG,Headset,Informática,Presencial,Boleto,4,250,Ana
+2026-02-27,P057,Marcelo Lima,Rio de Janeiro,RJ,Mesa Escritório,Móveis,Online,Pix,2,1200,Lucas
+2026-02-28,P058,Carolina Silva,Campinas,SP,Impressora,Informática,Presencial,Cartão de Crédito,1,900,Carlos
+2026-03-01,P059,Gustavo Souza,Volta Redonda,RJ,Teclado,Informática,Online,Pix,5,150,Ana
+2026-03-02,P060,Fernanda Alves,São Paulo,SP,Mouse,Informática,Presencial,Cartão de Crédito,12,80,Lucas
